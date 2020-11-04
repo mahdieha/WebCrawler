@@ -4,7 +4,7 @@
 #
 version: 2
 jobs:
-  build_review_service:
+  build_web_crawler:
     docker:
       # specify the version you desire here
       - image: circleci/openjdk:11-jdk
