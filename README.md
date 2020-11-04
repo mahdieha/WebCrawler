@@ -1,3 +1,5 @@
+[![CircleCI](https://app.circleci.com/pipelines/github/mahdieha.svg?style=svg)](https://app.circleci.com/pipelines/github/mahdieha)
+
 # WebCrawler
 
 This is a web crawler that uses the Jsoup library to extract general information from the HTML page by entering the web address and store the information in the SQLite database.
